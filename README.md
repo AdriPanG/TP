@@ -1,3 +1,2 @@
 # TP
-Tecnología de la programación
-Adrián
+Tecnología de la Programación
